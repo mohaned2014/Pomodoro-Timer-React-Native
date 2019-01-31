@@ -1,4 +1,12 @@
-imp : don't forget to install react-native-vector-icons
+![screenshot](https://github.com/mohaned2014/Pomodoro-Timer-React-Native/blob/master/1.png?raw=true)
+![screenshot](https://github.com/mohaned2014/Pomodoro-Timer-React-Native/blob/master/2.png)
+![screenshot](https://github.com/mohaned2014/Pomodoro-Timer-React-Native/blob/master/3.png)
+![screenshot](https://github.com/mohaned2014/Pomodoro-Timer-React-Native/blob/master/4.png?raw=true)
+
+
+
+<br>
+important : don't forget to install react-native-vector-icons
 
 # Pomodoro-Timer-React-Native
 
