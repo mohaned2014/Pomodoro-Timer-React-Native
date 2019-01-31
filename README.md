@@ -1,6 +1,8 @@
+imp : don't forget to install react-native-vector-icons
+
 # Pomodoro-Timer-React-Native
 
-educational React Native program : PomodoroTimer is a simple Timer that help you focusing :)
+Educational React Native program : PomodoroTimer is a simple Timer that help you focusing :)
 
 # Project 1 - Pomodoro Timer
 
